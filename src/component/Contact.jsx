@@ -1,16 +1,14 @@
 import React from 'react'
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css'
-import Home from'./component/Home'
 
-
-function App() {
+const Contact=()=> {
   return (
     <>
-    <Home />
+    <h1>Welcome to contact</h1>
     </>
 
 
   );
 }
 
-export default App;
+export default Contact;
