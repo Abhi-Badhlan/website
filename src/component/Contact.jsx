@@ -7,7 +7,7 @@ const Contact=()=> {
         <div className='container-fluid'>
        <div className='row'>
          <div className='col-10 mx-auto'>
-           <h1>Welcome to Contact</h1>         
+         <img src="https://mdbootstrap.com/img/logo/mdb-transparent-250px.png" class="animated bounce infinite" alt="Transparent MDB Logo" id="animated-img1" />     
            </div>
 
        </div>

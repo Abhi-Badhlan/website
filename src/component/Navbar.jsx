@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom';
-
+import web from '../images/2.png'
 
 const Navbar=()=>{
     return(
@@ -14,7 +14,7 @@ const Navbar=()=>{
 
     <nav className="navbar navbar-expand-lg navbar-light bg-white">
   <div className="container-fluid">
-    <NavLink className="navbar-brand" exact to="/">AB-Technical</NavLink>
+    <NavLink className="navbar-brand p" exact to="/"> <img src={web}  alt='home img' height='40px' width='40px'/> Tech Egyption</NavLink>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>

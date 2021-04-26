@@ -13,11 +13,17 @@
 
  
 }
-
+.p{
+  font-family: 'Times New Roman', Times, serif;
+  color: #64CCE7;
+}
 .navbar a {
   font-size: 1.3rem !important;
   text-transform: capitalize !important;
 
+}
+.imgc{
+  animation: both !important;
 }
 .menu_active{
   font-weight: bold;

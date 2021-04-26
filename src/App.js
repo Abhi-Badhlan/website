@@ -8,7 +8,6 @@ import About from './component/About'
 import Contact from './component/Contact'
 import Service from './component/Service'
 
-
 function App() {
   return (
     <>
