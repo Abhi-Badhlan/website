@@ -22,9 +22,7 @@
   text-transform: capitalize !important;
 
 }
-.imgc{
-  animation: both !important;
-}
+
 .menu_active{
   font-weight: bold;
   border-bottom: 1px solid aqua;
